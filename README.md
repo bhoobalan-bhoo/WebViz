@@ -44,8 +44,8 @@ For a comprehensive API reference and usage examples, please visit our [API Refe
 
 WebViz is developed and maintained by the following contributors:
 
-- Bhoobalan ([@bhoobalan-bhoo]([https://github.com/johndoe](https://github.com/bhoobalan-bhoo)))
-- Jagajith 
+- Bhoobalan ([@bhoobalan-bhoo](https://github.com/bhoobalan-bhoo))
+- Jagajith ([@jagajith23](https://github.com/jagajith23))
 
 We appreciate all the efforts put into making this project a reality.
 
